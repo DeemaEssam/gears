@@ -1,4 +1,4 @@
-# gears
+# Gear Ration
 
 1. Red = 5 teeth
 2. Orange = 10 teeth
